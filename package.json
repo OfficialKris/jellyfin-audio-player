@@ -1,7 +1,7 @@
 {
   "name": "fintunes",
   "version": "2.4.6",
-  "main": "src/index.js",
+  "main": "index.js",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
